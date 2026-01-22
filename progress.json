@@ -52,5 +52,12 @@
       "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769065076.570155,
+    "completed_at": 1769065077.918977,
+    "comments": [],
+    "status": "Completed"
   }
 ]
