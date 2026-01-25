@@ -167,5 +167,14 @@
       "Great work! You have successfully updated the tags to point to the correct commits."
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1769340902.025165,
+    "completed_at": 1769340911.686092,
+    "comments": [
+      "Tag v2.0 is missing, did you push it to the remote?"
+    ],
+    "status": "Incomplete"
   }
 ]
