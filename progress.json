@@ -194,5 +194,14 @@
       "Missing question Which new values are new in north.csv on Jan 10th, compared to Jan 01st? in answers file."
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1769341365.124772,
+    "completed_at": 1769341366.4574,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
   }
 ]
